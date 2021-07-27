@@ -1,0 +1,85 @@
+body{
+	font-family : 'Open Sans', sans-serif ;
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+}
+header{
+height: 100px;
+}
+
+
+nav{
+	width: 100%;
+	background: #c15653;
+}
+
+
+.table{
+	display: table;
+	text-align: center;
+	display: inline-flex;
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav li{
+	list-style-type: none;
+	float:;
+}
+
+a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+
+
+.menu-prod:hover{
+	border-top: 5px solid #4a97d3;
+	background-color: RGBa(74, 151, 211, 0.15);
+}
+
+.menu-soin:hover{
+	border-top: 5px solid #4a97d3;
+	background-color: RGBa(74, 151, 211, 0.15);
+}
+
+.menu-cont:hover{
+	border-top: 5px solid #4a97d3;
+	background-color: RGBa(74, 151, 211, 0.15);
+}
+
+.menu-com:hover{
+	border-top: 5px solid #4a97d3;
+	background-color: RGBa(74, 151, 211, 0.15);
+}
+
+.menu-icon:hover{
+	border-top: 5px solid #4a97d3;
+	background-color: RGBa(74, 151, 211, 0.15);
+}
+
+nav li:hover a{
+	padding: 15px 15px 10px 15px;
+}
